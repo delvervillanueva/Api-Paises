@@ -25,7 +25,7 @@ index.html
 _Delver Villanueva_
 
 
-* **Delver Villanueva** - *Mi portafolio* - [DelverVillanueva](delvervillanueva.netlify.app)
+* **Delver Villanueva** - *Mi portafolio* - [DelverVillanueva](https://delvervillanueva.netlify.app/)
 
 ## Expresiones de Gratitud 🎁
 
